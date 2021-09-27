@@ -1,0 +1,29 @@
+/* .container{
+    margin-top: 5px;
+} */
+.header-area{
+    padding: 30px 0;
+}
+.title{
+    font-size: 50px;
+    color:rgb(23, 23, 23);
+}
+.discription{
+    color:rgb(97, 97, 97);
+    margin: 20px 30px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.header-area{
+    text-align: center;
+    background-color:rgba(237, 218, 76, 0.836);
+    margin-bottom: 30px;
+    border-radius: 5px;
+
+}
+
+.cost{
+    color:rgb(179, 63, 64);
+}

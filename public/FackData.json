@@ -1,0 +1,92 @@
+[
+    {
+      "name": "David Schwimmer",
+      "id": 1,
+      "hiringCost": 2500000,
+      "img": "https://images.indianexpress.com/2016/08/david-schwimmer-759.jpg",
+      "age": 54,
+      "born": "Flushing, New York",
+      "netWorth": "$85 million",
+      "otherMovies": "A Deadly Silence (1989),[10] Schwimmer followed this with roles on the legal drama L.A. Law in 1992"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "id": 2,
+      "hiringCost": 2500000,
+      "img": "https://www.hellomagazine.com/imagenes/homes/20210802118776/jennifer-aniston-shares-glimpse-inside-home-exciting-news-friends/0-574-740/jennifer-aniston-friends-merch-drop-t.jpg",
+      "age": 52,
+      "netWorth": "$300 million",
+      "born": "Sherman Oaks, California",
+      "otherMovies": " comic science fiction film Mac and Me in an uncredited role of a dancer in McDonald's"
+    },
+    {
+      "name": "Matthew perry",
+      "id": 3,
+      "hiringCost": 2500000,
+      "img": "https://ca-times.brightspotcdn.com/dims4/default/7b3972d/2147483647/strip/true/crop/686x386+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd8%2Fb7%2F812ef0b4db8b0a3c67da08411a73%2Fla-1520637375-vnlhcw32e9-snap-image",
+      "age": 52,
+      "netWorth": "$120 million",
+      "born": "Williamstown, Massachusetts",
+      "otherMovies": " Second Chance. After 13 episodes, Second Chance became Boys Will Be Boys"
+    },
+    {
+      "name": "Courteney Cox",
+      "id": 4,
+      "hiringCost": 2500000,
+      "img": "https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fhiddenremote.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2021%2F02%2F969403288-850x560.jpeg",
+      "age": "57",
+      "netWorth": "$150 million",
+      "born": "Birmingham, Alabama",
+      "otherMovies": " Masters of the Universe (1987), Cocoon: The Return (1988), and I'll Be Home for Christmas (1988)."
+    },
+    {
+      "name": "Matt LeBlanc",
+      "id": 5,
+      "hiringCost": 2500000,
+      "img": "https://www.simplemost.com/wp-content/uploads/2019/01/497599918_Matt-LeBlanc-e1548691776350.jpg",
+      "age": 54,
+      "netWorth": "$80 million",
+      "born": "Newton, Massachusetts",
+      "otherMovies": "Heinz Tomato Ketchup commercial. In 1988, he starred in the television drama"
+    },
+    {
+      "name": "Lisa Kudrow",
+      "id": 6,
+      "hiringCost": 2500000,
+      "img": "https://deadline.com/wp-content/uploads/2019/05/lisa-kudrow-2.jpg?w=1009",
+      "age": 58,
+      "netWorth": "$90 million",
+      "born": "Encino, Los Angeles",
+      "otherMovies": "Roz Doyle in Frasier, but the role was re-cast with Peri Gilpin during the taping"
+    },
+    {
+      "name": "Janice Hosenstein",
+      "id": 7,
+      "hiringCost": 500000,
+      "img": "http://static.oprah.com/images/o2/201408/ep406-own-watn-4-949x534.jpg",
+      "age": 59,
+      "netWorth": "$2 million",
+      "born": "New York City",
+      "otherMovies": " Melodia and the heroine Steelheart/Emily Hart, and on the Karate Kat and Mini-Monsters"
+    },
+    {
+      "name": "James Michael",
+      "id": 8,
+      "hiringCost": 600000,
+      "img": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2019/09/friends-actor-i-dont-see-a-reason-to-revisit-it-001.jpg",
+      "age": 59,
+      "netWorth": "$4 million",
+      "born": "Greenwood, Mississippí",
+      "otherMovies": "Gunther on the sitcom Friends. Gunther was a coffee shop worker at Central Perk who had unrequited"
+    },
+    {
+      "name": "Carol Willick",
+      "id": 9,
+      "hiringCost": 1500000,
+      "img": "https://img.buzzfeed.com/buzzfeed-static/static/2016-01/15/10/enhanced/webdr09/original-grid-image-12152-1452871847-8.jpg?downsize=900:*&output-format=auto&output-quality=auto",
+      "age": 52,
+      "netWorth": "$2 million",
+      "born": "Berkeley, California",
+      "otherMovies": "The Famous Teddy Z, co-starring with Jon Cryer and Alex Rocco"
+    }
+  ]

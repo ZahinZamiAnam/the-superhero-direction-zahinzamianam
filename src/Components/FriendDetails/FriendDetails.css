@@ -1,0 +1,13 @@
+.actor-img{
+    width: 100px;
+    height: 100px ;
+    object-fit: cover;
+}
+
+.friend-details{
+    align-items: center;
+    margin-bottom:20px;
+    box-shadow: 2px 3px 5px 0;
+    padding: 4px;
+    border-radius: 5px;
+}
